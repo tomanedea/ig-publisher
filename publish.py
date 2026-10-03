@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Publish due Instagram posts and stories through the official Instagram API
+Publish due Instagram carousels, reels and stories through the official Instagram API
 (Instagram Login, graph.instagram.com). Runs every 15 minutes on GitHub Actions.
 
   schedule.json         what to publish and when (written by the local sync tool)
@@ -26,7 +26,7 @@ import urllib.request
 API = "https://graph.instagram.com/v25.0"
 HERE = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(HERE, "state", "published.json")
-MAX_LATE = {"carousel": dt.timedelta(hours=3), "story": dt.timedelta(hours=1)}
+MAX_LATE = {"carousel": dt.timedelta(hours=3), "reel": dt.timedelta(hours=3), "story": dt.timedelta(hours=1)}
 MAX_ATTEMPTS = 3
 
 
@@ -60,6 +60,11 @@ def wait_ready(container_id, token, timeout=180):
 
 def publish_item(item, ig_id, token, base_url):
     urls = [f"{base_url}/{p}" for p in item["images"]]
+    if item["type"] == "reel":
+        c = call("POST", f"{ig_id}/media", token, media_type="REELS", video_url=urls[0],
+                 caption=item["caption"], share_to_feed="true")["id"]
+        wait_ready(c, token, timeout=600)   # video processing takes longer
+        return call("POST", f"{ig_id}/media_publish", token, creation_id=c)["id"]
     if item["type"] == "story":
         c = call("POST", f"{ig_id}/media", token, image_url=urls[0], media_type="STORIES")["id"]
     elif len(urls) == 1:
@@ -100,8 +105,8 @@ def main():
             print(f"SKIP {key}: too late")
             continue
         # one carousel per account per run; story q/a pairs may go together
-        slot = (acct, item["type"] if item["type"] == "carousel" else f"story-{item['scheduled_at']}")
-        if item["type"] == "carousel" and slot in done_this_run:
+        slot = (acct, item["type"] if item["type"] in ("carousel", "reel") else f"story-{item['scheduled_at']}")
+        if item["type"] in ("carousel", "reel") and slot in done_this_run:
             continue
         if acct not in tokens:
             print(f"NO TOKEN for {acct}, leaving {key}")
