@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "key": "quiet.mandate:reel-2026-10-03",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-03T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-03/01.mp4"
+   ],
+   "caption": "Did you make it to ten?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-03",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-03T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-03/01.mp4"
+   ],
+   "caption": "What did you guess? Comment your number before you check.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-03",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-03T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-03/01.mp4"
+   ],
+   "caption": "Comment “tomorrow” if he’s getting a reply on your schedule now.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-03",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-03T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-03/01.mp4"
+   ],
+   "caption": "who still has an ex’s hoodie? confess below.\n\n#relatable #petty #relatablememes #mood #sweaterweather"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-03",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-03T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-03/01.mp4"
+   ],
+   "caption": "Old or new? Answer before the reveal.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
    "key": "chronicallypetty:story-2026-10-03-2",
    "account": "chronicallypetty",
    "type": "story",
@@ -72,6 +122,56 @@
     "chronicallypetty/story-2026-10-04-1/01.jpg"
    ],
    "caption": ""
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-04",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-04T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-04/01.mp4"
+   ],
+   "caption": "What tab were you about to open?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-04",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-04T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-04/01.mp4"
+   ],
+   "caption": "Did you look? Comment “done” if you did.\n\n#moneytips #financialliteracy #budgeting #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-04",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-04T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-04/01.mp4"
+   ],
+   "caption": "Red or green? Comment before you scroll.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-04",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-04T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-04/01.mp4"
+   ],
+   "caption": "rate it 1–10. be honest.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-04",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-04T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-04/01.mp4"
+   ],
+   "caption": "Promptness.\n\n#oldmoney #oldmoneystyle #quietluxury"
   },
   {
    "key": "quiet.mandate:story-2026-10-04-2",
@@ -221,6 +321,56 @@
     "exdiagnosis/story-2026-10-05-1/01.jpg"
    ],
    "caption": ""
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-05",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-05T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-05/01.mp4"
+   ],
+   "caption": "Where do you hold it. Jaw, shoulders, hands?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-05",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-05T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-05/01.mp4"
+   ],
+   "caption": "How many streaming services are you paying for right now?\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-05",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-05T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-05/01.mp4"
+   ],
+   "caption": "Did you skip his story today? Comment “skipped.”\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-05",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-05T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-05/01.mp4"
+   ],
+   "caption": "tag the coworker whose quick question is 45 minutes.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-05",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-05T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-05/01.mp4"
+   ],
+   "caption": "Did you answer in three seconds?\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
   },
   {
    "key": "quiet.mandate:story-2026-10-05-2",
@@ -446,6 +596,56 @@
    "caption": ""
   },
   {
+   "key": "quiet.mandate:reel-2026-10-06",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-06T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-06/01.mp4"
+   ],
+   "caption": "Who scheduled it?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-06",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-06T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-06/01.mp4"
+   ],
+   "caption": "Which subscription did you find? Comment it.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-06",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-06T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-06/01.mp4"
+   ],
+   "caption": "Tag the friend who deserves a “home safe?” text.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-06",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-06T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-06/01.mp4"
+   ],
+   "caption": "how petty is this, 1–10? drop your number.\n\n#relatable #petty #relatablememes #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-06",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-06T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-06/01.mp4"
+   ],
+   "caption": "The good guest.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
    "key": "quiet.mandate:story-2026-10-06-2",
    "account": "quiet.mandate",
    "type": "story",
@@ -666,6 +866,56 @@
    "caption": ""
   },
   {
+   "key": "quiet.mandate:reel-2026-10-07",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-07T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-07/01.mp4"
+   ],
+   "caption": "What did you want to check?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-07",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-07T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-07/01.mp4"
+   ],
+   "caption": "Higher or lower than you guessed? Comment it.\n\n#moneytips #financialliteracy #budgeting #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-07",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-07T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-07/01.mp4"
+   ],
+   "caption": "Comment “still blocked” if the block is staying.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-07",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-07T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-07/01.mp4"
+   ],
+   "caption": "what would you actually send your landlord? drop it.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-07",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-07T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-07/01.mp4"
+   ],
+   "caption": "Old or new? Leave your answer below.\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
    "key": "quiet.mandate:story-2026-10-07-2",
    "account": "quiet.mandate",
    "type": "story",
@@ -882,6 +1132,56 @@
     "exdiagnosis/story-2026-10-08-1/01.jpg"
    ],
    "caption": ""
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-08",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-08T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-08/01.mp4"
+   ],
+   "caption": "How many unread right now?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-08",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-08T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-08/01.mp4"
+   ],
+   "caption": "What did you name yours? Comment it.\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-08",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-08T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-08/01.mp4"
+   ],
+   "caption": "Did you call it before the reveal? Comment yes or no.\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-08",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-08T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-08/01.mp4"
+   ],
+   "caption": "your rating goes in the comments.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-08",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-08T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-08/01.mp4"
+   ],
+   "caption": "Restraint.\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
   },
   {
    "key": "quiet.mandate:story-2026-10-08-2",
@@ -1107,6 +1407,56 @@
    "caption": ""
   },
   {
+   "key": "quiet.mandate:reel-2026-10-09",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-09T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-09/01.mp4"
+   ],
+   "caption": "Did they creep back up?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-09",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-09T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-09/01.mp4"
+   ],
+   "caption": "Did you guess anywhere near 82 months? Be honest.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-09",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-09T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-09/01.mp4"
+   ],
+   "caption": "When does he call you, noon or 2 a.m.?\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-09",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-09T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-09/01.mp4"
+   ],
+   "caption": "who else gets this text every family update?\n\n#relatable #petty #relatablememes #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-09",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-09T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-09/01.mp4"
+   ],
+   "caption": "Which did you say?\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
    "key": "quiet.mandate:story-2026-10-09-2",
    "account": "quiet.mandate",
    "type": "story",
@@ -1323,6 +1673,56 @@
     "exdiagnosis/story-2026-10-10-1/01.jpg"
    ],
    "caption": ""
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-10",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-10T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-10/01.mp4"
+   ],
+   "caption": "What is your maintenance?\n\n#discipline #selfdiscipline #stoicism #mindset #mentalhealthday"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-10",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-10T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-10/01.mp4"
+   ],
+   "caption": "World Mental Health Day: your feed counts too. Comment “unfollowed.”\n\n#moneytips #financialliteracy #budgeting #genz #mentalhealthday"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-10",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-10T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-10/01.mp4"
+   ],
+   "caption": "World Mental Health Day: what does green look like to you?\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak #mentalhealthday"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-10",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-10T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-10/01.mp4"
+   ],
+   "caption": "logging off for mental health day counts. rate it 1–10.\n\n#petty #funnyquotes #relatable #mood #mentalhealthday"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-10",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-10T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-10/01.mp4"
+   ],
+   "caption": "Rest.\n\n#oldmoney #oldmoneystyle #quietluxury #mentalhealthday"
   },
   {
    "key": "quiet.mandate:story-2026-10-10-2",
@@ -1544,6 +1944,56 @@
    "caption": ""
   },
   {
+   "key": "quiet.mandate:reel-2026-10-11",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-11T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-11/01.mp4"
+   ],
+   "caption": "How long did it stay face down? Reply with the number.\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-11",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-11T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-11/01.mp4"
+   ],
+   "caption": "Would $260 by next fall change anything for you?\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-11",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-11T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-11/01.mp4"
+   ],
+   "caption": "Comment “same guy” if you already know how this ends.\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-11",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-11T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-11/01.mp4"
+   ],
+   "caption": "tag the friend whose “5 min” is a lie.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-11",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-11T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-11/01.mp4"
+   ],
+   "caption": "Old or new? One word below.\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
+  },
+  {
    "key": "quiet.mandate:story-2026-10-11-2",
    "account": "quiet.mandate",
    "type": "story",
@@ -1761,6 +2211,56 @@
     "exdiagnosis/story-2026-10-12-1/01.jpg"
    ],
    "caption": ""
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-12",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-12T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-12/01.mp4"
+   ],
+   "caption": "Did the reply survive the breath?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-12",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-12T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-12/01.mp4"
+   ],
+   "caption": "Which app did you delete it from? Comment “done.”\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-12",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-12T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-12/01.mp4"
+   ],
+   "caption": "Comment “meme guy” if you’ve dated this one.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-12",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-12T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-12/01.mp4"
+   ],
+   "caption": "be honest, you’ve done this. rate it 1–10.\n\n#relatable #petty #relatablememes #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-12",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-12T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-12/01.mp4"
+   ],
+   "caption": "Patience.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
   },
   {
    "key": "quiet.mandate:story-2026-10-12-2",
@@ -1983,6 +2483,56 @@
    "caption": ""
   },
   {
+   "key": "quiet.mandate:reel-2026-10-13",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-13T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-13/01.mp4"
+   ],
+   "caption": "What did you look at?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-13",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-13T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-13/01.mp4"
+   ],
+   "caption": "How many names are on your gift list this year?\n\n#moneytips #financialliteracy #budgeting #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-13",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-13T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-13/01.mp4"
+   ],
+   "caption": "Did your thumb stay still? Comment “no like.”\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-13",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-13T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-13/01.mp4"
+   ],
+   "caption": "neighbor or me? drop your verdict.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-13",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-13T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-13/01.mp4"
+   ],
+   "caption": "Did you guess correctly?\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
    "key": "quiet.mandate:story-2026-10-13-2",
    "account": "quiet.mandate",
    "type": "story",
@@ -2201,6 +2751,56 @@
     "exdiagnosis/story-2026-10-14-1/01.jpg"
    ],
    "caption": ""
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-14",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-14T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-14/01.mp4"
+   ],
+   "caption": "Breath or coffee first, tomorrow?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-14",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-14T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-14/01.mp4"
+   ],
+   "caption": "How many days until your next payday? Comment the number.\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-14",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-14T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-14/01.mp4"
+   ],
+   "caption": "How many dates until you noticed? Comment the number.\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-14",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-14T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-14/01.mp4"
+   ],
+   "caption": "what’s your number? drop it.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-14",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-14T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-14/01.mp4"
+   ],
+   "caption": "Order.\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
   },
   {
    "key": "quiet.mandate:story-2026-10-14-2",
@@ -2423,6 +3023,56 @@
    "caption": ""
   },
   {
+   "key": "quiet.mandate:reel-2026-10-15",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-15T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-15/01.mp4"
+   ],
+   "caption": "Where were you before this?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-15",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-15T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-15/01.mp4"
+   ],
+   "caption": "What’s your usual lunch spend? Comment your guess first.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-15",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-15T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-15/01.mp4"
+   ],
+   "caption": "Him, or being wanted? Be honest in the comments.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-15",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-15T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-15/01.mp4"
+   ],
+   "caption": "what’s your go-to excuse? drop it.\n\n#relatable #petty #relatablememes #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-15",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-15T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-15/01.mp4"
+   ],
+   "caption": "Old or new? Three seconds was enough.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
    "key": "quiet.mandate:story-2026-10-15-2",
    "account": "quiet.mandate",
    "type": "story",
@@ -2553,6 +3203,706 @@
     "exdiagnosis/28/08.jpg"
    ],
    "caption": "Potential doesn’t text back or pay rent. Tag the friend who describes him with the word “when.”\n\n#toxicrelationships #datingafterheartbreak #relationshiptruths #redflags"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-16",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-16T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-16/01.mp4"
+   ],
+   "caption": "What do you check first in the morning?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-16",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-16T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-16/01.mp4"
+   ],
+   "caption": "Did you send it? Comment what they said.\n\n#moneytips #financialliteracy #budgeting #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-16",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-16T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-16/01.mp4"
+   ],
+   "caption": "Did this one surprise you? Comment what you guessed.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-16",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-16T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-16/01.mp4"
+   ],
+   "caption": "1 to 10, be brutal.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-16",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-16T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-16/01.mp4"
+   ],
+   "caption": "Composure.\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-17",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-17T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-17/01.mp4"
+   ],
+   "caption": "One word. What are you avoiding?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-17",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-17T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-17/01.mp4"
+   ],
+   "caption": "Comment “guilty” if you’re paying for this gym too.\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-17",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-17T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-17/01.mp4"
+   ],
+   "caption": "Comment “closed” if the thread stays closed tonight.\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-17",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-17T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-17/01.mp4"
+   ],
+   "caption": "would you hit send? yes or no in the comments.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-17",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-17T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-17/01.mp4"
+   ],
+   "caption": "Your answer, before the reveal?\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-18",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-18T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-18/01.mp4"
+   ],
+   "caption": "One word for Monday.\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-18",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-18T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-18/01.mp4"
+   ],
+   "caption": "Comment “$5” if you just moved it.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-18",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-18T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-18/01.mp4"
+   ],
+   "caption": "Send this to the friend who keeps hearing “mature for your age.”\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-18",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-18T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-18/01.mp4"
+   ],
+   "caption": "where do you hide your snacks? rate it too.\n\n#relatable #petty #relatablememes #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-18",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-18T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-18/01.mp4"
+   ],
+   "caption": "Gifts.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-19",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-19T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-19/01.mp4"
+   ],
+   "caption": "Who did you make wait ten seconds?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-19",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-19T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-19/01.mp4"
+   ],
+   "caption": "Is your fall drink worth it? Comment yes or no.\n\n#moneytips #financialliteracy #budgeting #genz #fall"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-19",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-19T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-19/01.mp4"
+   ],
+   "caption": "Talk or reset? Comment what his “just talk” usually means.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-19",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-19T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-19/01.mp4"
+   ],
+   "caption": "what do you send back to “wyd”? drop it.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-19",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-19T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-19/01.mp4"
+   ],
+   "caption": "Old or new? Answer quietly below.\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-20",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-20T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-20/01.mp4"
+   ],
+   "caption": "Sent or deleted?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-20",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-20T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-20/01.mp4"
+   ],
+   "caption": "How many names made your list? Comment the number.\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-20",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-20T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-20/01.mp4"
+   ],
+   "caption": "Tag someone who remembers your order.\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-20",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-20T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-20/01.mp4"
+   ],
+   "caption": "would you? drop a number 1–10.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-20",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-20T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-20/01.mp4"
+   ],
+   "caption": "Repair.\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-21",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-21T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-21/01.mp4"
+   ],
+   "caption": "What was the farthest thing you could see?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-21",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-21T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-21/01.mp4"
+   ],
+   "caption": "Did $1,300 surprise you? Comment your guess.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-21",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-21T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-21/01.mp4"
+   ],
+   "caption": "Comment “pending forever” if his request is going nowhere.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-21",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-21T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-21/01.mp4"
+   ],
+   "caption": "tag the sibling who still has your stuff.\n\n#relatable #petty #relatablememes #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-21",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-21T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-21/01.mp4"
+   ],
+   "caption": "Which did you choose?\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-22",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-22T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-22/01.mp4"
+   ],
+   "caption": "Where does your phone sleep?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-22",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-22T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-22/01.mp4"
+   ],
+   "caption": "Did you find your rate? Comment “checked.”\n\n#moneytips #financialliteracy #budgeting #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-22",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-22T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-22/01.mp4"
+   ],
+   "caption": "Comment “plan A” if you’re done being the backup.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-22",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-22T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-22/01.mp4"
+   ],
+   "caption": "too much or not enough? rate it 1–10.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-22",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-22T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-22/01.mp4"
+   ],
+   "caption": "Hospitality.\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-23",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-23T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-23/01.mp4"
+   ],
+   "caption": "Harder than it sounds?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-23",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-23T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-23/01.mp4"
+   ],
+   "caption": "What did you guess? Closer to $1,000 or $2,000?\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-23",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-23T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-23/01.mp4"
+   ],
+   "caption": "Cuffing season or a full year? Comment “not seasonal.”\n\n#redflags #relationshiptruths #situationship #toxicrelationships #cuffingseason"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-23",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-23T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-23/01.mp4"
+   ],
+   "caption": "what’s the oldest thing someone still owes you? drop it.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-23",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-23T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-23/01.mp4"
+   ],
+   "caption": "Old or new? Leave one word.\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-24",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-24T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-24/01.mp4"
+   ],
+   "caption": "What are you training today?\n\n#discipline #stoicism #selfmastery #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-24",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-24T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-24/01.mp4"
+   ],
+   "caption": "What did you take out of your cart? Comment it.\n\n#personalfinance #budgeting #moneytips #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-24",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-24T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-24/01.mp4"
+   ],
+   "caption": "Calm disagreement: green or red to you? Comment it.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-24",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-24T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-24/01.mp4"
+   ],
+   "caption": "rate it, then drop your own.\n\n#relatable #petty #relatablememes #mood #sweaterweather"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-24",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-24T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-24/01.mp4"
+   ],
+   "caption": "Your word.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-25",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-25T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-25/01.mp4"
+   ],
+   "caption": "How long did it last?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-25",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-25T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-25/01.mp4"
+   ],
+   "caption": "Have overdraft fees ever wrecked your month? You’re not alone.\n\n#moneytips #financialliteracy #budgeting #genz"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-25",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-25T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-25/01.mp4"
+   ],
+   "caption": "What round is his apology on? Comment the number.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-25",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-25T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-25/01.mp4"
+   ],
+   "caption": "too far or just far enough? comment.\n\n#petty #funnyquotes #relatable #mood"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-25",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-25T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-25/01.mp4"
+   ],
+   "caption": "Did you call it?\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-26",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-26T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-26/01.mp4"
+   ],
+   "caption": "What rattled you today?\n\n#selfmastery #discipline #selfdiscipline #stoicism"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-26",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-26T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-26/01.mp4"
+   ],
+   "caption": "Could you say it without checking? Comment yes or no.\n\n#personalfinance #genz #financialliteracy #moneytips"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-26",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-26T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-26/01.mp4"
+   ],
+   "caption": "Has anyone ever called you “the new one”? Comment below.\n\n#redflags #relationshiptruths #situationship #toxicrelationships"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-26",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-26T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-26/01.mp4"
+   ],
+   "caption": "how many points does this get? 1–10.\n\n#relatablememes #petty #funnyquotes #relatable"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-26",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-26T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-26/01.mp4"
+   ],
+   "caption": "Declining.\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-27",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-27T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-27/01.mp4"
+   ],
+   "caption": "What time does your alarm go off now?\n\n#discipline #stoicism #selfmastery #mindset #fall"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-27",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-27T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-27/01.mp4"
+   ],
+   "caption": "Would you work 12 hours for the jacket? Comment yes or no.\n\n#personalfinance #budgeting #moneytips #genz #fall"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-27",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-27T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-27/01.mp4"
+   ],
+   "caption": "Comment “new route” if you’re done with the detour.\n\n#redflags #situationship #datingadvice #relationshiptruths"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-27",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-27T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-27/01.mp4"
+   ],
+   "caption": "what are you bringing to the potluck? wrong answers only.\n\n#relatable #petty #relatablememes #mood #halloween"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-27",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-27T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-27/01.mp4"
+   ],
+   "caption": "Old or new? Your answer below.\n\n#oldmoney #quietluxury #oldmoneyaesthetic #timelessstyle"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-28",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-28T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-28/01.mp4"
+   ],
+   "caption": "Who gets the calmer version tonight?\n\n#discipline #selfdiscipline #stoicism #mindset"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-28",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-28T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-28/01.mp4"
+   ],
+   "caption": "What’s your costume budget? Comment the number.\n\n#moneytips #financialliteracy #budgeting #genz #halloween"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-28",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-28T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-28/01.mp4"
+   ],
+   "caption": "Forgot, or edited you out? Comment your verdict.\n\n#redflags #datingadvice #toxicrelationships #datingafterheartbreak #halloween"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-28",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-28T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-28/01.mp4"
+   ],
+   "caption": "pettiness score 1–10? and what’s your costume?\n\n#petty #funnyquotes #relatable #mood #halloween"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-28",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-28T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-28/01.mp4"
+   ],
+   "caption": "Use.\n\n#oldmoney #oldmoneystyle #quietluxury"
+  },
+  {
+   "key": "quiet.mandate:reel-2026-10-29",
+   "account": "quiet.mandate",
+   "type": "reel",
+   "scheduled_at": "2026-10-29T14:00:00-04:00",
+   "images": [
+    "quiet.mandate/reel-2026-10-29/01.mp4"
+   ],
+   "caption": "How many pieces so far today? Honest number.\n\n#selfmastery #discipline #selfdiscipline #stoicism #halloween"
+  },
+  {
+   "key": "shamefreemoney:reel-2026-10-29",
+   "account": "shamefreemoney",
+   "type": "reel",
+   "scheduled_at": "2026-10-29T14:30:00-04:00",
+   "images": [
+    "shamefreemoney/reel-2026-10-29/01.mp4"
+   ],
+   "caption": "What’s your costume budget this year? Comment it.\n\n#personalfinance #genz #financialliteracy #moneytips #halloween"
+  },
+  {
+   "key": "exdiagnosis:reel-2026-10-29",
+   "account": "exdiagnosis",
+   "type": "reel",
+   "scheduled_at": "2026-10-29T15:00:00-04:00",
+   "images": [
+    "exdiagnosis/reel-2026-10-29/01.mp4"
+   ],
+   "caption": "Did your ghost come back this week? Comment “exorcised.”\n\n#redflags #relationshiptruths #situationship #toxicrelationships #ghosting"
+  },
+  {
+   "key": "chronicallypetty:reel-2026-10-29",
+   "account": "chronicallypetty",
+   "type": "reel",
+   "scheduled_at": "2026-10-29T15:30:00-04:00",
+   "images": [
+    "chronicallypetty/reel-2026-10-29/01.mp4"
+   ],
+   "caption": "tag the friend in charge of the group costume.\n\n#relatablememes #petty #funnyquotes #relatable #halloween"
+  },
+  {
+   "key": "heirloommindset:reel-2026-10-29",
+   "account": "heirloommindset",
+   "type": "reel",
+   "scheduled_at": "2026-10-29T16:00:00-04:00",
+   "images": [
+    "heirloommindset/reel-2026-10-29/01.mp4"
+   ],
+   "caption": "Which was your answer?\n\n#oldmoney #oldmoneyaesthetic #timelessstyle #oldmoneystyle"
   }
  ]
 }
