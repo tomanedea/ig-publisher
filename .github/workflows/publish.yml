@@ -1,0 +1,40 @@
+name: publish
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # GitHub may start scheduled runs a few minutes late
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Publish just this key now (testing)"
+        required: false
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish due items
+        env:
+          IG_TOKENS: ${{ secrets.IG_TOKENS }}
+          MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/media
+        run: |
+          if [ -n "${{ github.event.inputs.only }}" ]; then
+            python3 publish.py --only=${{ github.event.inputs.only }}
+          else
+            python3 publish.py
+          fi
+      - name: Save state
+        run: |
+          git config user.name "publisher-bot"
+          git config user.email "publisher-bot@users.noreply.github.com"
+          git add state/published.json
+          git diff --cached --quiet || (git commit -m "state: $(date -u +%FT%TZ)" && git pull --rebase && git push)
