@@ -146,7 +146,11 @@ def main():
     # (runs can be hours late), so each run covers several hours on its own.
     loop = next((int(a.split("=", 1)[1]) for a in sys.argv if a.startswith("--loop=")), 0)
     end = time.time() + loop * 60
+    passes = 0
     while True:
+        if loop and passes % 10 == 0:
+            os.system("git pull -q --rebase")   # pick up newly synced schedules without waiting for the next run
+        passes += 1
         if one_pass() and loop:
             save_state()
         if time.time() + 60 > end:
