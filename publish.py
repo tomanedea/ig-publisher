@@ -79,7 +79,7 @@ def publish_item(item, ig_id, token, base_url):
     return call("POST", f"{ig_id}/media_publish", token, creation_id=c)["id"]
 
 
-def main():
+def one_pass():
     dry = "--dry-run" in sys.argv
     only = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--only=")), None)
     tokens = json.loads(os.environ.get("IG_TOKENS", "{}"))
@@ -126,9 +126,32 @@ def main():
             state[key] = {"error": str(e)[:500], "attempts": attempts, "at": now.isoformat()}
             print(f"ERR  {key} (attempt {attempts}): {e}")
 
+    changed = False
     if not dry:
+        old = json.load(open(STATE_PATH)) if os.path.exists(STATE_PATH) else {}
+        changed = old != state
         os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
         json.dump(state, open(STATE_PATH, "w"), indent=1, sort_keys=True)
+    return changed
+
+
+def save_state():
+    """Commit and push state right away, so a later run never re-publishes."""
+    os.system('git add state/published.json && (git diff --cached --quiet || '
+              '(git commit -q -m "state: $(date -u +%FT%TZ)" && git pull -q --rebase && git push -q))')
+
+
+def main():
+    # --loop=MIN: keep checking every 60 s for MIN minutes. GitHub's cron is unreliable
+    # (runs can be hours late), so each run covers several hours on its own.
+    loop = next((int(a.split("=", 1)[1]) for a in sys.argv if a.startswith("--loop=")), 0)
+    end = time.time() + loop * 60
+    while True:
+        if one_pass() and loop:
+            save_state()
+        if time.time() + 60 > end:
+            break
+        time.sleep(60)
 
 
 if __name__ == "__main__":

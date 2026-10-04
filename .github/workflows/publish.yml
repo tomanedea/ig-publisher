@@ -2,7 +2,7 @@ name: publish
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # GitHub may start scheduled runs a few minutes late
+    - cron: "7 * * * *"   # hourly; GitHub often starts these hours late, so each run loops ~5.6 h
   workflow_dispatch:
     inputs:
       only:
@@ -19,7 +19,7 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - name: Publish due items
@@ -30,7 +30,9 @@ jobs:
           if [ -n "${{ github.event.inputs.only }}" ]; then
             python3 publish.py --only=${{ github.event.inputs.only }}
           else
-            python3 publish.py
+            git config user.name "publisher-bot"
+            git config user.email "publisher-bot@users.noreply.github.com"
+            python3 publish.py --loop=335
           fi
       - name: Save state
         run: |
