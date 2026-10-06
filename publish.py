@@ -135,9 +135,34 @@ def one_pass():
     return changed
 
 
+STATS_PATH = os.path.join(HERE, "state", "stats.json")
+
+
+def daily_stats():
+    """Once per UTC day: followers, following, post count and likes/comments per account."""
+    stats = json.load(open(STATS_PATH)) if os.path.exists(STATS_PATH) else {}
+    day = dt.datetime.now(dt.timezone.utc).date().isoformat()
+    if day in stats:
+        return False
+    snap = {}
+    for acct, tok in json.loads(os.environ.get("IG_TOKENS", "{}")).items():
+        try:
+            me = call("GET", "me", tok, fields="followers_count,follows_count,media_count")
+            media = call("GET", "me/media", tok, fields="media_type,like_count,comments_count,timestamp", limit="100").get("data", [])
+            snap[acct] = {"followers": me.get("followers_count"), "following": me.get("follows_count"),
+                          "posts": me.get("media_count"),
+                          "likes": sum(m.get("like_count", 0) for m in media),
+                          "comments": sum(m.get("comments_count", 0) for m in media)}
+        except Exception as e:
+            snap[acct] = {"error": str(e)[:200]}
+    stats[day] = snap
+    json.dump(stats, open(STATS_PATH, "w"), indent=1, sort_keys=True)
+    return True
+
+
 def save_state():
     """Commit and push state right away, so a later run never re-publishes."""
-    os.system('git add state/published.json && (git diff --cached --quiet || '
+    os.system('git add state/published.json state/stats.json 2>/dev/null; (git diff --cached --quiet || '
               '(git commit -q -m "state: $(date -u +%FT%TZ)" && git pull -q --rebase && git push -q))')
 
 
@@ -151,7 +176,10 @@ def main():
         if loop and passes % 10 == 0:
             os.system("git pull -q --rebase")   # pick up newly synced schedules without waiting for the next run
         passes += 1
-        if one_pass() and loop:
+        changed = one_pass()
+        if loop and daily_stats():
+            changed = True
+        if changed and loop:
             save_state()
         if time.time() + 60 > end:
             break
