@@ -15,6 +15,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write    # lets each run start the next one
 
 jobs:
   publish:
@@ -40,3 +41,10 @@ jobs:
           git config user.email "publisher-bot@users.noreply.github.com"
           git add state/published.json
           git diff --cached --quiet || (git commit -m "state: $(date -u +%FT%TZ)" && git pull --rebase && git push)
+      - name: Chain the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        # GitHub's own schedule leaves gaps of hours between runs, so every run queues the next one;
+        # the concurrency group makes it start the moment this one ends. The hourly cron stays as a backup.
+        run: gh workflow run publish --repo ${{ github.repository }}
