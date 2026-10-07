@@ -89,9 +89,9 @@
   "media_id": "18138274861715800"
  },
  "exdiagnosis:10": {
-  "at": "2026-10-07T02:00:40.477359+00:00",
-  "attempts": 1,
-  "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKsOB0p71ULU4pkOuXUndsc\"}}"
+  "at": "2026-10-07T02:02:15.927770+00:00",
+  "attempts": 2,
+  "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZBDlDay7vpMGKFEDMjOPLU\"}}"
  },
  "exdiagnosis:7": {
   "at": "2026-10-05T18:17:54.065186+00:00",
