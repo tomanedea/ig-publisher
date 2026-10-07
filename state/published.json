@@ -222,9 +222,9 @@
   "media_id": "18104427638127039"
  },
  "shamefreemoney:11": {
-  "at": "2026-10-07T11:30:54.074058+00:00",
-  "attempts": 1,
-  "error": "POST 17841426262534277/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A7P2NXQ8R_SBoORapXj2GUs\"}}"
+  "at": "2026-10-07T11:32:27.805770+00:00",
+  "attempts": 2,
+  "error": "POST 17841426262534277/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ABJyzTjBdtSz-UfJD0-Mogu\"}}"
  },
  "shamefreemoney:7": {
   "at": "2026-10-05T11:30:36.662773+00:00",
