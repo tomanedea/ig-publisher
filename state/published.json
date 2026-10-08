@@ -15,9 +15,9 @@
   "error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AFTwfjXyERE_dr8CWJax1G9\"}}"
  },
  "chronicallypetty:13": {
-  "at": "2026-10-08T12:00:55.519059+00:00",
-  "attempts": 1,
-  "error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AzbAD8QtTMK2ZenuH6fSEXt\"}}"
+  "at": "2026-10-08T12:02:38.447530+00:00",
+  "attempts": 2,
+  "error": "POST 17841446313311569/media_publish: 400 {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AEcOTYdP1Yq4UgTAOkPo4Oe\"}}"
  },
  "chronicallypetty:4": {
   "at": "2026-10-03T07:45:03.547175+00:00",
