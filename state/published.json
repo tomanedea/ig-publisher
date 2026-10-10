@@ -468,9 +468,8 @@
   "media_id": "18170485801409972"
  },
  "quiet.mandate:story-2026-10-10-2": {
-  "at": "2026-10-10T21:00:10.748634+00:00",
-  "attempts": 1,
-  "error": "POST 17841415518497131/media_publish: 400 {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AgZp040XG5Aq4WjaoVE6_OQ\"}}"
+  "at": "2026-10-10T21:01:15.974735+00:00",
+  "media_id": "17977501902128920"
  },
  "shamefreemoney:10": {
   "at": "2026-10-06T23:00:28.346906+00:00",
