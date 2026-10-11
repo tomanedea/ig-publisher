@@ -233,9 +233,9 @@
   "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AAvHf4C9XC9F1086cJaaqZk\"}}"
  },
  "exdiagnosis:18": {
-  "at": "2026-10-11T02:00:23.132734+00:00",
-  "attempts": 1,
-  "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A4qv4NNi6_62jIC1c6Pre-c\"}}"
+  "at": "2026-10-11T02:02:04.187792+00:00",
+  "attempts": 2,
+  "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AQ1vX4HTz3So9mqtNlK7AwT\"}}"
  },
  "exdiagnosis:7": {
   "at": "2026-10-05T18:17:54.065186+00:00",
