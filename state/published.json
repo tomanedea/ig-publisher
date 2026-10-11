@@ -379,6 +379,11 @@
   "at": "2026-10-11T16:45:27.646085+00:00",
   "media_id": "18087307961697706"
  },
+ "exdiagnosis:story-2026-10-11-2": {
+  "at": "2026-10-11T21:30:08.004630+00:00",
+  "attempts": 1,
+  "error": "POST 17841476021742994/media_publish: 400 {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"As-KojQpa1tSsxPCYB3nkPb\"}}"
+ },
  "heirloommindset:reel-2026-10-03": {
   "at": "2026-10-03T22:48:38.021063+00:00",
   "media_id": "18123673372919885"
