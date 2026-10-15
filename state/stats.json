@@ -331,5 +331,42 @@
    "likes": 1,
    "posts": 62
   }
+ },
+ "2026-10-15": {
+  "chronicallypetty": {
+   "comments": 0,
+   "followers": 0,
+   "following": 4,
+   "likes": 0,
+   "posts": 67
+  },
+  "exdiagnosis": {
+   "comments": 0,
+   "followers": 0,
+   "following": 5,
+   "likes": 5,
+   "posts": 67
+  },
+  "heirloommindset": {
+   "comments": 2,
+   "followers": 1,
+   "following": 5,
+   "likes": 2,
+   "posts": 37
+  },
+  "quiet.mandate": {
+   "comments": 5,
+   "followers": 0,
+   "following": 6,
+   "likes": 8,
+   "posts": 37
+  },
+  "shamefreemoney": {
+   "comments": 1,
+   "followers": 1,
+   "following": 4,
+   "likes": 1,
+   "posts": 69
+  }
  }
 }
