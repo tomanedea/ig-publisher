@@ -547,8 +547,8 @@
   "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ApX4rsZUT4xO-5LKTvTFH7v\"}}"
  },
  "exdiagnosis:b02-7": {
-  "at": "2026-10-19T18:34:12.991706+00:00",
-  "last_error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-19T19:04:16.981695+00:00",
+  "skipped": "too late (184 min)"
  },
  "exdiagnosis:reel-2026-10-03": {
   "at": "2026-10-03T19:45:09.535595+00:00",
@@ -613,6 +613,10 @@
  "exdiagnosis:reel-2026-10-18": {
   "at": "2026-10-18T19:00:44.187869+00:00",
   "media_id": "18126127486912150"
+ },
+ "exdiagnosis:reel-2026-10-19": {
+  "at": "2026-10-19T19:04:16.981695+00:00",
+  "media_id": "17920302465240348"
  },
  "exdiagnosis:story-2026-10-05-1": {
   "at": "2026-10-05T18:17:54.065186+00:00",
@@ -781,6 +785,10 @@
  "exdiagnosis:story-2026-10-18-3": {
   "at": "2026-10-18T21:32:22.883789+00:00",
   "media_id": "18074468303734685"
+ },
+ "exdiagnosis:story-2026-10-19-1": {
+  "at": "2026-10-19T19:04:16.981695+00:00",
+  "skipped": "too late (139 min)"
  },
  "heirloommindset:b02-1": {
   "at": "2026-10-16T14:33:56.359570+00:00",
@@ -1017,6 +1025,10 @@
  "quiet.mandate:reel-2026-10-18": {
   "at": "2026-10-18T18:00:38.426221+00:00",
   "media_id": "18179632804442052"
+ },
+ "quiet.mandate:reel-2026-10-19": {
+  "at": "2026-10-19T19:04:16.981695+00:00",
+  "media_id": "18179675242432556"
  },
  "quiet.mandate:story-2026-10-04-1": {
   "at": "2026-10-04T11:15:00.070208+00:00",
@@ -1405,6 +1417,10 @@
  "shamefreemoney:reel-2026-10-18": {
   "at": "2026-10-18T18:30:14.880166+00:00",
   "media_id": "18104098391366542"
+ },
+ "shamefreemoney:reel-2026-10-19": {
+  "at": "2026-10-19T19:04:16.981695+00:00",
+  "media_id": "18635251882042089"
  },
  "shamefreemoney:story-2026-10-05-1": {
   "at": "2026-10-05T12:15:18.713375+00:00",
