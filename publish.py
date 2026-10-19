@@ -45,17 +45,23 @@ def call(method, path, token, **params):
         raise RuntimeError(f"{method} {path}: {e.code} {e.read().decode()[:400]}") from None
 
 
-def wait_ready(container_id, token, timeout=180):
-    """Containers must reach FINISHED before they can be published."""
+def wait_ready(container_id, token, timeout=300, first_wait=15, every=20):
+    """Containers must reach FINISHED before they can be published. Polls sparingly:
+    the app's API budget is tiny while the accounts have few impressions."""
+    time.sleep(first_wait)
     end = time.time() + timeout
-    while time.time() < end:
+    while True:
         status = call("GET", container_id, token, fields="status_code").get("status_code")
         if status == "FINISHED":
             return
         if status in ("ERROR", "EXPIRED"):
             raise RuntimeError(f"container {container_id} status {status}")
-        time.sleep(5)
-    raise RuntimeError(f"container {container_id} not ready after {timeout}s")
+        if time.time() > end:
+            raise RuntimeError(f"container {container_id} not ready after {timeout}s")
+        time.sleep(every)
+
+
+RATE_LIMIT_CODES = ('"code":4,', '"code":17,', '"code":32,', '"code":613,', "request limit")
 
 
 def publish_item(item, ig_id, token, base_url):
@@ -63,16 +69,16 @@ def publish_item(item, ig_id, token, base_url):
     if item["type"] == "reel":
         c = call("POST", f"{ig_id}/media", token, media_type="REELS", video_url=urls[0],
                  caption=item["caption"], share_to_feed="true")["id"]
-        wait_ready(c, token, timeout=600)   # video processing takes longer
+        wait_ready(c, token, timeout=600, first_wait=30, every=30)   # video processing takes longer
         return call("POST", f"{ig_id}/media_publish", token, creation_id=c)["id"]
     if item["type"] == "story":
         c = call("POST", f"{ig_id}/media", token, image_url=urls[0], media_type="STORIES")["id"]
     elif len(urls) == 1:
         c = call("POST", f"{ig_id}/media", token, image_url=urls[0], caption=item["caption"])["id"]
     else:
+        # images process in seconds; don't poll each child, only the finished carousel
         children = [call("POST", f"{ig_id}/media", token, image_url=u, is_carousel_item="true")["id"] for u in urls]
-        for ch in children:
-            wait_ready(ch, token)
+        time.sleep(15)
         c = call("POST", f"{ig_id}/media", token, media_type="CAROUSEL",
                  children=",".join(children), caption=item["caption"])["id"]
     wait_ready(c, token)
@@ -89,6 +95,8 @@ def one_pass():
     now = dt.datetime.now(dt.timezone.utc)
 
     ig_ids, done_this_run = {}, set()
+    if state.get("_backoff_until") and dt.datetime.fromisoformat(state["_backoff_until"]) > now:
+        return False
     for item in sorted(schedule, key=lambda i: i["scheduled_at"]):
         key = item["key"]
         if only and key != only:
@@ -122,6 +130,12 @@ def one_pass():
             done_this_run.add(slot)
             print(f"OK   {key} -> {media_id}")
         except Exception as e:  # recorded and retried next run
+            if any(c in str(e) for c in RATE_LIMIT_CODES):
+                state["_backoff_until"] = (now + dt.timedelta(minutes=30)).isoformat()
+                state[key] = {**rec, "last_error": str(e)[:300], "at": now.isoformat()}
+                state[key].pop("error", None)
+                print(f"RATE {key}: API budget exhausted, pausing 30 min (attempt not counted)")
+                break
             attempts = rec.get("attempts", 0) + 1
             state[key] = {"error": str(e)[:500], "attempts": attempts, "at": now.isoformat()}
             print(f"ERR  {key} (attempt {attempts}): {e}")
