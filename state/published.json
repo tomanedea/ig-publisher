@@ -579,8 +579,8 @@
   "skipped": "too late (182 min)"
  },
  "exdiagnosis:b02-9": {
-  "at": "2026-10-20T18:33:39.843324+00:00",
-  "last_error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-20T19:03:46.951685+00:00",
+  "skipped": "too late (183 min)"
  },
  "exdiagnosis:reel-2026-10-03": {
   "at": "2026-10-03T19:45:09.535595+00:00",
@@ -649,6 +649,10 @@
  "exdiagnosis:reel-2026-10-19": {
   "at": "2026-10-19T19:04:16.981695+00:00",
   "media_id": "17920302465240348"
+ },
+ "exdiagnosis:reel-2026-10-20": {
+  "at": "2026-10-20T19:03:46.951685+00:00",
+  "media_id": "17993527319851369"
  },
  "exdiagnosis:story-2026-10-05-1": {
   "at": "2026-10-05T18:17:54.065186+00:00",
@@ -829,6 +833,10 @@
  "exdiagnosis:story-2026-10-19-3": {
   "at": "2026-10-19T21:32:41.972909+00:00",
   "media_id": "18099204965419474"
+ },
+ "exdiagnosis:story-2026-10-20-1": {
+  "at": "2026-10-20T19:03:46.951685+00:00",
+  "skipped": "too late (138 min)"
  },
  "heirloommindset:b02-1": {
   "at": "2026-10-16T14:33:56.359570+00:00",
@@ -1101,6 +1109,10 @@
  "quiet.mandate:reel-2026-10-19": {
   "at": "2026-10-19T19:04:16.981695+00:00",
   "media_id": "18179675242432556"
+ },
+ "quiet.mandate:reel-2026-10-20": {
+  "at": "2026-10-20T19:03:46.951685+00:00",
+  "media_id": "17952805068324180"
  },
  "quiet.mandate:story-2026-10-04-1": {
   "at": "2026-10-04T11:15:00.070208+00:00",
@@ -1513,6 +1525,10 @@
  "shamefreemoney:reel-2026-10-19": {
   "at": "2026-10-19T19:04:16.981695+00:00",
   "media_id": "18635251882042089"
+ },
+ "shamefreemoney:reel-2026-10-20": {
+  "at": "2026-10-20T19:03:46.951685+00:00",
+  "media_id": "18081945008347727"
  },
  "shamefreemoney:story-2026-10-05-1": {
   "at": "2026-10-05T12:15:18.713375+00:00",
