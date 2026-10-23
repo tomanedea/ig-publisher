@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-23T15:02:14.231249+00:00",
+ "_backoff_until": "2026-10-23T15:32:18.915940+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -145,8 +145,8 @@
   "skipped": "too late (182 min)"
  },
  "chronicallypetty:b02-15": {
-  "at": "2026-10-23T14:32:14.231249+00:00",
-  "last_error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-23T15:02:18.915940+00:00",
+  "skipped": "too late (182 min)"
  },
  "chronicallypetty:b02-2": {
   "at": "2026-10-17T01:04:07.747083+00:00",
@@ -500,6 +500,10 @@
  "chronicallypetty:story-2026-10-22-3": {
   "at": "2026-10-22T21:47:09.693850+00:00",
   "media_id": "18396430873165859"
+ },
+ "chronicallypetty:story-2026-10-23-1": {
+  "at": "2026-10-23T15:02:18.915940+00:00",
+  "skipped": "too late (137 min)"
  },
  "exdiagnosis:10": {
   "at": "2026-10-07T02:03:44.061930+00:00",
@@ -990,6 +994,10 @@
  "heirloommindset:b02-14": {
   "at": "2026-10-23T03:32:25.238593+00:00",
   "skipped": "too late (182 min)"
+ },
+ "heirloommindset:b02-15": {
+  "at": "2026-10-23T15:02:18.915940+00:00",
+  "last_error": "POST 17841426245434164/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "heirloommindset:b02-2": {
   "at": "2026-10-17T00:33:54.297953+00:00",
@@ -2037,5 +2045,9 @@
  "shamefreemoney:story-2026-10-22-3": {
   "at": "2026-10-22T21:17:32.558793+00:00",
   "media_id": "17908674804569692"
+ },
+ "shamefreemoney:story-2026-10-23-1": {
+  "at": "2026-10-23T15:02:18.915940+00:00",
+  "skipped": "too late (167 min)"
  }
 }
