@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-26T04:02:44.539872+00:00",
+ "_backoff_until": "2026-10-26T04:32:48.111649+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -170,8 +170,8 @@
   "error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AzJD1-fRpp49YASza8RpUVK\"}}"
  },
  "chronicallypetty:b02-20": {
-  "at": "2026-10-26T03:32:44.539872+00:00",
-  "last_error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-26T04:02:48.111649+00:00",
+  "skipped": "too late (182 min)"
  },
  "chronicallypetty:b02-3": {
   "at": "2026-10-17T12:03:28.815566+00:00",
@@ -1449,6 +1449,10 @@
   "at": "2026-10-17T01:33:25.370119+00:00",
   "attempts": 3,
   "error": "POST 17841415518497131/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A6FC4ZiOr_5IMNDgi4yEQIq\"}}"
+ },
+ "quiet.mandate:b02-20": {
+  "at": "2026-10-26T04:02:48.111649+00:00",
+  "last_error": "POST 17841415518497131/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "quiet.mandate:b02-3": {
   "at": "2026-10-17T10:33:37.462107+00:00",
