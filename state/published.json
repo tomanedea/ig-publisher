@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-27T13:30:34.900880+00:00",
+ "_backoff_until": "2026-10-27T14:00:38.674325+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -1539,8 +1539,8 @@
   "skipped": "too late (182 min)"
  },
  "quiet.mandate:b02-23": {
-  "at": "2026-10-27T13:00:34.900880+00:00",
-  "last_error": "POST 17841415518497131/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-27T13:30:38.674325+00:00",
+  "skipped": "too late (180 min)"
  },
  "quiet.mandate:b02-3": {
   "at": "2026-10-17T10:33:37.462107+00:00",
@@ -1946,6 +1946,10 @@
   "at": "2026-10-26T21:02:45.699261+00:00",
   "media_id": "17940664905379357"
  },
+ "quiet.mandate:story-2026-10-27-1": {
+  "at": "2026-10-27T13:30:38.674325+00:00",
+  "skipped": "too late (135 min)"
+ },
  "shamefreemoney:10": {
   "at": "2026-10-06T23:00:28.346906+00:00",
   "media_id": "18104427638127039"
@@ -2113,6 +2117,10 @@
  "shamefreemoney:b02-22": {
   "at": "2026-10-27T02:01:37.353924+00:00",
   "skipped": "too late (181 min)"
+ },
+ "shamefreemoney:b02-23": {
+  "at": "2026-10-27T13:30:38.674325+00:00",
+  "last_error": "POST 17841426262534277/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "shamefreemoney:b02-3": {
   "at": "2026-10-17T11:33:39.295922+00:00",
