@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-28T17:36:34.368494+00:00",
+ "_backoff_until": "2026-10-28T18:06:39.372022+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -802,6 +802,10 @@
   "at": "2026-10-28T05:04:48.938051+00:00",
   "skipped": "too late (184 min)"
  },
+ "exdiagnosis:b02-25": {
+  "at": "2026-10-28T17:36:39.372022+00:00",
+  "last_error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+ },
  "exdiagnosis:b02-3": {
   "at": "2026-10-17T16:03:40.217598+00:00",
   "attempts": 3,
@@ -1281,8 +1285,8 @@
   "skipped": "too late (182 min)"
  },
  "heirloommindset:b02-25": {
-  "at": "2026-10-28T17:06:34.368494+00:00",
-  "last_error": "POST 17841426245434164/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-28T17:36:39.372022+00:00",
+  "skipped": "too late (186 min)"
  },
  "heirloommindset:b02-3": {
   "at": "2026-10-17T14:33:47.578905+00:00",
@@ -1559,6 +1563,10 @@
  "heirloommindset:story-2026-10-27-3": {
   "at": "2026-10-27T22:02:16.810474+00:00",
   "media_id": "18081134903542403"
+ },
+ "heirloommindset:story-2026-10-28-1": {
+  "at": "2026-10-28T17:36:39.372022+00:00",
+  "skipped": "too late (141 min)"
  },
  "quiet.mandate:b02-1": {
   "at": "2026-10-16T10:33:23.543362+00:00",
