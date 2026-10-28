@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-28T00:31:26.834301+00:00",
+ "_backoff_until": "2026-10-28T01:01:35.824824+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -2195,7 +2195,7 @@
   "skipped": "too late (180 min)"
  },
  "shamefreemoney:b02-24": {
-  "at": "2026-10-28T00:01:26.834301+00:00",
+  "at": "2026-10-28T00:31:35.824824+00:00",
   "last_error": "POST 17841426262534277/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Se bloque\\u00f3 la acci\\u00f3n\",\"error_user_msg\":\"Restringimos ciertas actividades para proteger a nuest"
  },
  "shamefreemoney:b02-3": {
