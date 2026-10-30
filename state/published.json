@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-30T04:02:28.482068+00:00",
+ "_backoff_until": "2026-10-30T04:32:31.542380+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -202,8 +202,8 @@
   "skipped": "too late (181 min)"
  },
  "chronicallypetty:b02-28": {
-  "at": "2026-10-30T03:32:28.482068+00:00",
-  "last_error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-30T04:02:31.542380+00:00",
+  "skipped": "too late (182 min)"
  },
  "chronicallypetty:b02-3": {
   "at": "2026-10-17T12:03:28.815566+00:00",
@@ -1769,6 +1769,10 @@
  "quiet.mandate:b02-27": {
   "at": "2026-10-29T13:31:05.315117+00:00",
   "skipped": "too late (181 min)"
+ },
+ "quiet.mandate:b02-28": {
+  "at": "2026-10-30T04:02:31.542380+00:00",
+  "last_error": "POST 17841415518497131/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "quiet.mandate:b02-3": {
   "at": "2026-10-17T10:33:37.462107+00:00",
