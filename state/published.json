@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-31T14:01:51.532237+00:00",
+ "_backoff_until": "2026-10-31T14:31:53.241916+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -2294,7 +2294,7 @@
   "error": "POST 17841426262534277/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A865S12DI1Pn4RIULLzHG87\"}}"
  },
  "shamefreemoney:13-r": {
-  "at": "2026-10-31T13:31:51.532237+00:00",
+  "at": "2026-10-31T14:01:53.241916+00:00",
   "last_error": "POST 17841426262534277/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "shamefreemoney:14": {
