@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-10-31T15:02:15.301526+00:00",
+ "_backoff_until": "2026-10-31T15:32:17.748352+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -24,8 +24,8 @@
   "error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AFTwfjXyERE_dr8CWJax1G9\"}}"
  },
  "chronicallypetty:12-r": {
-  "at": "2026-10-31T14:32:15.301526+00:00",
-  "last_error": "POST 17841446313311569/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-10-31T15:02:17.748352+00:00",
+  "skipped": "too late (182 min)"
  },
  "chronicallypetty:13": {
   "at": "2026-10-08T12:04:10.941679+00:00",
@@ -1416,6 +1416,10 @@
   "at": "2026-10-17T14:33:47.578905+00:00",
   "attempts": 3,
   "error": "POST 17841426245434164/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ASZtedR4GCiq-zNpjyOrG62\"}}"
+ },
+ "heirloommindset:b02-3-r": {
+  "at": "2026-10-31T15:02:17.748352+00:00",
+  "last_error": "POST 17841426245434164/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "heirloommindset:b02-4": {
   "at": "2026-10-18T00:34:09.610217+00:00",
