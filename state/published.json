@@ -1,5 +1,5 @@
 {
- "_backoff_until": "2026-11-02T05:35:06.484330+00:00",
+ "_backoff_until": "2026-11-02T06:05:21.787478+00:00",
  "chronicallypetty:10": {
   "at": "2026-10-07T01:03:51.125929+00:00",
   "attempts": 3,
@@ -738,6 +738,10 @@
   "at": "2026-10-09T16:03:19.497976+00:00",
   "attempts": 3,
   "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A96mNq94oCw_QVOSihPTo5c\"}}"
+ },
+ "exdiagnosis:15-r": {
+  "at": "2026-11-02T05:35:21.787478+00:00",
+  "last_error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
  },
  "exdiagnosis:16": {
   "at": "2026-10-10T02:03:28.993498+00:00",
@@ -1887,8 +1891,8 @@
   "error": "POST 17841415518497131/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AIMOzTx_YSSCs9joY3d9xJ4\"}}"
  },
  "quiet.mandate:b02-6-r": {
-  "at": "2026-11-02T05:05:06.484330+00:00",
-  "last_error": "POST 17841415518497131/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if y"
+  "at": "2026-11-02T05:35:21.787478+00:00",
+  "skipped": "too late (185 min)"
  },
  "quiet.mandate:b02-7": {
   "at": "2026-10-19T13:32:43.694860+00:00",
