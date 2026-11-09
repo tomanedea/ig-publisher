@@ -933,6 +933,10 @@
   "attempts": 3,
   "error": "POST 17841476021742994/media_publish: 400 {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"ArHTYeCx-kve5osTjXOgt1S\"}}"
  },
+ "exdiagnosis:b02-1-r": {
+  "at": "2026-11-09T03:00:22.883563+00:00",
+  "media_id": "17975587191145488"
+ },
  "exdiagnosis:b02-10": {
   "at": "2026-10-21T05:02:12.486622+00:00",
   "skipped": "too late (182 min)"
