@@ -1074,6 +1074,10 @@
   "attempts": 3,
   "error": "POST 17841476021742994/media_publish: 403 {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ApX4rsZUT4xO-5LKTvTFH7v\"}}"
  },
+ "exdiagnosis:b02-6-r": {
+  "at": "2026-11-11T17:00:56.288019+00:00",
+  "media_id": "18113246771624242"
+ },
  "exdiagnosis:b02-7": {
   "at": "2026-10-19T19:04:16.981695+00:00",
   "skipped": "too late (184 min)"
